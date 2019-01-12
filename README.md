@@ -6,7 +6,7 @@ Welcome to my DeepRL journey. In this repo i will share all the useful resources
 ## Video Lectures
 * Introduction to Reinforcement Learning (David Silver)
  [Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) [Slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-
+* Reinforcement learning tutorials (Morvan Zhou) [Videos](https://www.youtube.com/playlist?list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba) [Code](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 
 ## Books
 * [Reinforcement Learning: An Introduction (Richard S. Sutton
